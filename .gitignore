@@ -15,3 +15,36 @@ config.json
 
 # Ignore all files in the 'mydirectory' directory and its subdirectories
 /mydirectory/**
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment files
+.env
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# IDE files
+.vscode/
+.idea/
+
+# Compiled Python files
+*.pyc
+
+# Flask specific files
+instance/
+*.pyc
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# OS-generated files
+.DS_Store
+Thumbs.db
