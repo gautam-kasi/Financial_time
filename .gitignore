@@ -1,0 +1,17 @@
+# Ignore files with .log extension
+*.log
+
+# Ignore the 'node_modules' directory
+/node_modules/
+
+# Ignore all .pdf files in the 'docs' directory
+/docs/*.pdf
+
+# Ignore a specific file named 'config.json'
+config.json
+
+# Ignore all files in the 'mydirectory' directory
+/mydirectory/*
+
+# Ignore all files in the 'mydirectory' directory and its subdirectories
+/mydirectory/**
