@@ -10,6 +10,9 @@
 # Ignore a specific file named 'config.json'
 config.json
 
+# adding python environment
+finance/
+
 # Ignore all files in the 'mydirectory' directory
 /mydirectory/*
 
